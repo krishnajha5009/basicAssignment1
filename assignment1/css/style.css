@@ -1,0 +1,52 @@
+/* Centering Banner Image */
+.cent {
+    display: block;
+    height: 275px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+header img {
+    border: 1px black solid;
+}
+
+header p {
+    margin-top: 0;
+    text-align: center;
+}
+
+/* Removing underline from the links */
+a:link {
+    text-decoration: none;
+}
+
+.images-list {
+    text-align: center;
+}
+
+.images-list img {
+    height: 200px;
+    width: 180px;
+}
+
+.border {
+    border: 1px black solid;
+}
+
+/* Contact Us Page */
+.contact-header {
+    color: green;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: normal;
+}
+
+/* About Us Page */
+.about-header {
+    color: gray;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: normal;
+}
+
